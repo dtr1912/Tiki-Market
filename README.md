@@ -8,7 +8,7 @@
 
 [Question 2](#question-2)
 
-[Part 2: Logical and Problem Solving](#part-2-logical-and-proble-solving)
+[Part 2: Logical and Problem Solving](#part-2-logical-and-problem-solving)
 
 [Part 3: Case Study](#part-3-case-study)
 
