@@ -244,5 +244,5 @@ Based on the data file provided, please tell us what is going on with Tiki’s M
 How was it performed? What are your recommendations to make it better? 
 For this section, your tasks are cleaning, processing, aggregating and visualizing the outputs of one classifier to draw conclusions about its performance.
 
-[For more details, [see at slide summary] (https://github.com/dtr1912/Tiki-Market/blob/main/Tiki%20Market.pptx).]
+For more details, [see at slide summary] (https://github.com/dtr1912/Tiki-Market/blob/main/Tiki%20Market.pptx).
 
