@@ -1,5 +1,7 @@
 # TIKI MARKETPLACE REPORT
-📚 Table of Contents
+
+# 📚 Table of Contents
+
 [Part 1: Problem Solving by SQL](#part-1-problem-solving-by-sql)
 
 [Question 1](#question-1)
