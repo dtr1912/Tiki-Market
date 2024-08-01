@@ -1,14 +1,14 @@
 # TIKI MARKETPLACE REPORT
 📚 Table of Contents
-[Part 1: Problem Solving by SQL]
+[Part 1: Problem Solving by SQL](#part-1-problem-solving-by-sql)
 
-[Question 1[
+[Question 1](#question-1)
 
-[Question 2]
+[Question 2](#question-2)
 
-[Part 2: Logical and Problem Solving[
+[Part 2: Logical and Problem Solving](#part-2-logical-and-proble-solving)
 
-[Part 3: Case Study]
+[Part 3: Case Study](#part-3-case-study)
 
 ## PART 1: PROBLEM SOLVING BY SQL
 ### QUESTION 1
@@ -49,7 +49,7 @@ WHERE
 ```
 
 Result:
-# 1a
+
 |   SellerID | Category    |   Sales |
 |-----------:|:------------|--------:|
 |          4 | Book        |     272 |
@@ -242,4 +242,5 @@ Based on the data file provided, please tell us what is going on with Tiki’s M
 How was it performed? What are your recommendations to make it better? 
 For this section, your tasks are cleaning, processing, aggregating and visualizing the outputs of one classifier to draw conclusions about its performance.
 
-[For more details, see at slide summary (https://github.com/dtr1912/Tiki-Market/blob/main/Tiki%20Market.pptx).]
+[For more details, [see at slide summary] (https://github.com/dtr1912/Tiki-Market/blob/main/Tiki%20Market.pptx).]
+
